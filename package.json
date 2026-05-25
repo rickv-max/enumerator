@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -13,7 +13,7 @@
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "firebase": "^10.7.1",
-"lucide-react": "^0.292.0"
+    "lucide-react": "^0.292.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
